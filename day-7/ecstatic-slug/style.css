@@ -1,0 +1,9 @@
+body {
+    background-image: linear-gradient(to top left, #99FF99 0%, #6699FF 100%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: ‘Oxygen’, sans-serif;
+}
+#heading{
+    color: gold;
+}
